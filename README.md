@@ -1,4 +1,4 @@
-# awesome-nextjs
+# Awesome Next.js
 
 A curated list of Next.js links
 
