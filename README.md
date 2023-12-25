@@ -5,6 +5,6 @@ A curated list of Next.js links
 ## Boilerplates
 
 * Steven Tey https://github.com/steven-tey/precedent
-* Marc Louvion https://shipfa.st
-* Melvyn Malherbe https://github.com/melvynx (soon)
+* Marc Louvion https://shipfa.st (private and wosts $299)
+* Melvyn Malherbe https://github.com/melvynx (soon and will cost $100)
 * Guillaume Duhan https://github.com/guillaumeduhan/ultimate-nextjs-template
