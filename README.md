@@ -18,3 +18,7 @@ A curated list of Next.js links
 - shadcn/ui
 - hyperui
 - https://ui.aceternity.com
+
+## Emoji
+
+- https://emojidb.org/nextjs-emojis
