@@ -19,6 +19,10 @@ A curated list of Next.js links
 * mickasmt https://github.com/mickasmt/next-saas-stripe-starter
 * Nazim Boudeffa https://github.com/nazimboudeffa/boilerplate-influence-nextjs-mongo
 
+## CSS Framework
+
+- https://tailwindcss.com utility classes
+
 ## UI
 
 - https://ui.shadcn.com
