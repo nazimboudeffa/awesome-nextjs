@@ -2,6 +2,12 @@
 
 A curated list of Next.js links
 
+## Deployment
+
+- https://www.netlify.com
+- https://vercel.com
+- https://coolify.io
+
 ## Boilerplates
 
 * Shadcn-ui https://github.com/shadcn-ui/taxonomy
