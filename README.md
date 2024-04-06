@@ -15,8 +15,8 @@ A curated list of Next.js links
 
 ## UI
 
-- shadcn/ui
-- hyperui
+- https://ui.shadcn.com
+- https://www.hyperui.dev
 - https://ui.aceternity.com
 
 ## Emoji
@@ -27,3 +27,12 @@ A curated list of Next.js links
 
 - https://www.npmjs.com/package/react-toastify
 - https://sonner.emilkowal.ski
+
+## Form validation
+
+- https://zod.dev
+- https://react-hook-form.com
+
+## Auth
+
+- https://next-auth.js.org
