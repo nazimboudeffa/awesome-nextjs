@@ -48,3 +48,8 @@ A curated list of Next.js links
 
 - https://github.com/marclou/minimalist-rest-API-boilerplate
 - https://github.com/nazimboudeffa/boilerplate-rest-api-mongo
+
+## DB
+
+- Prisma/Postgres
+- Mongoose/MongoDB
