@@ -22,3 +22,8 @@ A curated list of Next.js links
 ## Emoji
 
 - https://emojidb.org/nextjs-emojis
+
+## Toast
+
+- https://www.npmjs.com/package/react-toastify
+- https://sonner.emilkowal.ski
