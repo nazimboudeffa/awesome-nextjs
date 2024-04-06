@@ -36,3 +36,8 @@ A curated list of Next.js links
 ## Auth
 
 - https://next-auth.js.org
+
+## API
+
+- https://github.com/marclou/minimalist-rest-API-boilerplate
+- https://github.com/nazimboudeffa/boilerplate-rest-api-mongo
