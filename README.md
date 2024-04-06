@@ -18,6 +18,7 @@ A curated list of Next.js links
 - https://ui.shadcn.com
 - https://www.hyperui.dev
 - https://ui.aceternity.com
+- https://github.com/nazimboudeffa/ui-cool-nextjs-talwind
 
 ## Emoji
 
