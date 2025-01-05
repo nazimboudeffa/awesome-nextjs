@@ -1,12 +1,72 @@
 # Awesome Next.js
 
-A curated list of Next.js links
+A curated list of Next.js STACK
 
-## Deployment
+## UI
+
+- https://ui.shadcn.com
+- https://www.hyperui.dev
+- https://ui.aceternity.com
+
+## NODEJS
+
+- https://nodejs.org/en
+- https://github.com/nodejs/node
+
+## NEXTJS
+
+- https://nextjs.org/
+- https://github.com/vercel/next.js/
+
+## TALWIND CSS
+
+- https://tailwindcss.com/
+- https://github.com/tailwindlabs/tailwindcss
+
+## AUTHJS
+
+- https://authjs.dev/
+- https://github.com/nextauthjs/next-auth
+
+## MONGOOSE
+
+- https://mongoosejs.com/
+- https://github.com/Automattic/mongoose
+
+## MONGODB
+
+- https://www.mongodb.com/fr-fr
+- https://github.com/mongodb/mongo
+
+## ZOD
+
+- https://zod.dev/
+- https://github.com/colinhacks/zod
+
+## REACT HOOK FORM
+
+- https://react-hook-form.com/
+- https://github.com/react-hook-form/react-hook-form
+
+DOKPLOY
+
+- https://dokploy.com/
+https://github.com/dokploy/dokploy
+
+LUCIDE ICONS
+
+- https://lucide.dev/
+- https://github.com/lucide-icons/lucide
+
+COOLIFY
+
+- https://coolify.io
+- https://github.com/coollabsio/coolify
+
+## Companies
 
 - https://www.netlify.com
 - https://vercel.com
-- https://coolify.io
 
 ## Boilerplates
 
@@ -19,41 +79,4 @@ A curated list of Next.js links
 * mickasmt https://github.com/mickasmt/next-saas-stripe-starter
 * Nazim Boudeffa https://github.com/nazimboudeffa/boilerplate-influence-nextjs-mongo
 
-## CSS Framework
 
-- https://tailwindcss.com utility classes
-
-## UI
-
-- https://ui.shadcn.com
-- https://www.hyperui.dev
-- https://ui.aceternity.com
-- https://github.com/nazimboudeffa/ui-cool-nextjs-talwind
-
-## Emoji
-
-- https://emojidb.org/nextjs-emojis
-
-## Toast
-
-- https://www.npmjs.com/package/react-toastify
-- https://sonner.emilkowal.ski
-
-## Form validation
-
-- https://zod.dev
-- https://react-hook-form.com
-
-## Auth
-
-- https://next-auth.js.org
-
-## API
-
-- https://github.com/marclou/minimalist-rest-API-boilerplate
-- https://github.com/nazimboudeffa/boilerplate-rest-api-mongo
-
-## DB
-
-- Prisma/Postgres
-- Mongoose/MongoDB
