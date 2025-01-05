@@ -42,17 +42,17 @@ A curated list of Next.js STACK
 - https://react-hook-form.com/
 - https://github.com/react-hook-form/react-hook-form
 
-DOKPLOY
+## DOKPLOY
 
 - https://dokploy.com/
 https://github.com/dokploy/dokploy
 
-LUCIDE ICONS
+## LUCIDE ICONS
 
 - https://lucide.dev/
 - https://github.com/lucide-icons/lucide
 
-COOLIFY
+## COOLIFY
 
 - https://coolify.io
 - https://github.com/coollabsio/coolify
