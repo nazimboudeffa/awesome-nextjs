@@ -2,12 +2,6 @@
 
 A curated list of Next.js STACK
 
-## UI
-
-- https://ui.shadcn.com
-- https://www.hyperui.dev
-- https://ui.aceternity.com
-
 ## NODEJS
 
 - https://nodejs.org/en
@@ -62,6 +56,12 @@ COOLIFY
 
 - https://coolify.io
 - https://github.com/coollabsio/coolify
+
+## UI
+
+- https://ui.shadcn.com
+- https://www.hyperui.dev
+- https://ui.aceternity.com
 
 ## Companies
 
