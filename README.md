@@ -77,6 +77,6 @@ https://github.com/dokploy/dokploy
 * Guillaume Duhan https://github.com/guillaumeduhan/ultimate-nextjs-template (wip)
 * Antonio Erdejjac https://github.com/AntonioErdeljac/next13-ai-saas
 * mickasmt https://github.com/mickasmt/next-saas-stripe-starter
-* Nazim Boudeffa https://github.com/nazimboudeffa/boilerplate-influence-nextjs-mongo
+* rapidosaas https://github.com/rapidosaas
 
 
